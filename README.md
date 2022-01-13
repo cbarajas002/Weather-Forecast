@@ -2,7 +2,7 @@
 
 - - -
 
-URL: https://github.com/cbarajas002/Weather-Forecast.git
+URL: https://cbarajas002.github.io/Weather-Forecast/
 
 ## Description 
 
